@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">QRAuth</string>
+    <string name="title_activity_simple_scanner">SimpleScannerActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
 </resources>
